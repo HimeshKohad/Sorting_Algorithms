@@ -6,4 +6,4 @@ Implemented:
 
 | Name | File |
 |------|------|
-|Bubble sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/BubbleSort.cpp|
+|Bubble sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/BubbleSort.md|
