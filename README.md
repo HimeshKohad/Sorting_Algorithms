@@ -2,7 +2,7 @@
 Various sorting techniques in C++
 
 _________________________________________________________________________________
-Implemented:
+You can access the algorithms below:
 
 | Name | File |
 |------|------|
