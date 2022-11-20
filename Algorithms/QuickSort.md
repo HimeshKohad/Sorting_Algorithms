@@ -2,7 +2,7 @@
 
 <hr>
 
-Like [Merge Sort](https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/MergeSort.md), Quick Sort is a '_Divide and Conquer_' Algorithm. 
+Like [Merge Sort](https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/MergeSort.md), Quick Sort is a [Divide and Conquer](https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/DivideAndConquer.md) Algorithm. 
 It picks an element as a pivot and partitions the array around the picked pivot.
 There are multiple versions of quickSort that pick pivot in different ways:
 
