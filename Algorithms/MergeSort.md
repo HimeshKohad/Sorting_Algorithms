@@ -1,3 +1,7 @@
+***Merge Sort***
+
+<hr>
+
 The Merge Sort algorithm is based on the 'Divide and Conquer' approach.
 In this algorithm, the array is initially divided in two equal halves and then combined together in a sorted manner.
 
