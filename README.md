@@ -14,3 +14,4 @@ _You can access the algorithms and their implementations below:_
 |Insertion sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/InsertionSort.md|
 |Merge sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/MergeSort.md|
 |Quick sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/QuickSort.md|
+|Heap sort|https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/HeapSort.md|
