@@ -2,9 +2,11 @@
 
 <hr>
 
-Bubble sort is one of the simplest and most beginner friendly sorting techniques.
-In this algorithm we repeatedly swap the adjacent elements if they are in the wrong order.
+Bubble sort is one of the simplest and most beginner friendly sorting techniques. <br>
+In this algorithm we repeatedly swap the adjacent elements if they are in the wrong order. <br>
 This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
+
+<hr>
 
 So how does it work?
 
@@ -34,10 +36,23 @@ Third pass:
 - {1, 2, **3, 4**, 5} -> {1, 2, **3, 4**, 5}
 - {1, 2, 3, **4, 5**} -> {1, 2, 3, **4, 5**}
 
-Time complexity: O(n^2)
+<hr>
 
-Space complexity: O(1)
+***Complexity of Bubble Sort:***
 
+_Time Complexity:_
+
+| Case | Time Complexity |
+|------|------|
+|Best Case|O(n)|
+|Average Case|O(n^2)|
+|Worst Case|O(n^2)|
+
+<br>
+
+_Space Complexity:_ O(1)
+
+<hr>
 
 ```cpp
 #include <iostream>
