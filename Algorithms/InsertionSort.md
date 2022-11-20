@@ -1,3 +1,7 @@
+***Insertion Sort***
+
+<hr>
+
 Insertion sort is a simple sorting technique. In this algorithm the array is split into sorted and unsorted parts. 
 The values from the unsorted part are picked and placed in the correct place in the sorted part.
 
