@@ -1,4 +1,3 @@
-# Sorting_Algos
 ### Hi there 👋,
 <p> This repository contains various sorting algorithms and their implementations in C++. </p>
 <p> Please give this repo a ⭐ if these algorithms help you in any way (means a lot). </p>
