@@ -9,6 +9,7 @@ _You can access the algorithms and their implementations below:_
 
 | Name | File |
 |------|------|
+|Selection sort|https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/SelectionSort.md|
 |Bubble sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/BubbleSort.md|
 |Insertion sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/InsertionSort.md|
 |Merge sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/MergeSort.md|
