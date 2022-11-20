@@ -55,11 +55,19 @@ Now, the array is completely sorted.
 
 <hr>
 
-_**Merge Sort Complexities:**_
+***Complexity of Merge Sort:***
 
-Time Complexity: O(n*logn)
+_Time Complexity:_
 
-Space Complexity: O(n)
+| Case | Time Complexity |
+|------|------|
+|Best Case|O(n*logn)|
+|Average Case|O(n*logn)|
+|Worst Case|O(n*logn)|
+
+<br>
+
+_Space Complexity:_ O(n)
 
 <hr>
 
