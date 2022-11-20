@@ -54,6 +54,22 @@ To sort an array of size N in ascending order:
 
 <hr>
 
+***Complexity of Insertion Sort:***
+
+_Time Complexity:_
+
+| Case | Time Complexity |
+|------|------|
+|Best Case|O(n)|
+|Average Case|O(n^2)|
+|Worst Case|O(n^2)|
+
+<br>
+
+_Space Complexity:_ O(1)
+
+<hr>
+
 _**Implementation in C++**_
 ```cpp
 #include <iostream>
