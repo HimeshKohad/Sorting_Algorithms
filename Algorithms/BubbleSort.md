@@ -1,3 +1,7 @@
+***Bubble Sort***
+
+<hr>
+
 Bubble sort is one of the simplest and most beginner friendly sorting techniques.
 In this algorithm we repeatedly swap the adjacent elements if they are in the wrong order.
 This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
