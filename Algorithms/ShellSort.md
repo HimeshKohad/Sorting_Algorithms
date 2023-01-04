@@ -155,7 +155,8 @@ int main()
 ```
 
 <hr>
-_**Applications:**_
+
+***Applications:***
 
 The applications of Shell Sort include:
 * ShellSort performs more operations and has a higher cache miss ratio than [Quick Sort](https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/QuickSort.md).
