@@ -9,9 +9,10 @@ _You can access the algorithms and their implementations below:_
 
 | Name | File |
 |------|------|
-|Selection sort|https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/SelectionSort.md|
-|Bubble sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/BubbleSort.md|
-|Insertion sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/InsertionSort.md|
-|Merge sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/MergeSort.md|
-|Quick sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/QuickSort.md|
-|Heap sort|https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/HeapSort.md|
+|Selection Sort|https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/SelectionSort.md|
+|Bubble Sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/BubbleSort.md|
+|Insertion Sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/InsertionSort.md|
+|Merge Sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/MergeSort.md|
+|Quick Sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/QuickSort.md|
+|Heap Sort|https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/HeapSort.md|
+|Shell Sort|https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/ShellSort.md|
