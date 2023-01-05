@@ -1,4 +1,4 @@
-***Heap Sort***
+### ***Heap Sort***
 
 <hr>
 
