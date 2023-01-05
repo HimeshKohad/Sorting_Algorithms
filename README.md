@@ -7,12 +7,12 @@
 _________________________________________________________________________________
 _You can access the algorithms and their implementations below:_
 
-| Name | File |
-|------|------|
-|Selection Sort|https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/SelectionSort.md|
-|Bubble Sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/BubbleSort.md|
-|Insertion Sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/InsertionSort.md|
-|Merge Sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/MergeSort.md|
-|Quick Sort|https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/QuickSort.md|
-|Heap Sort|https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/HeapSort.md|
-|Shell Sort|https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/ShellSort.md|
+| Sr. No. | Name | File |
+|------|------|------|
+|1.|Selection Sort|[🔗 Link : Selection Sort](https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/SelectionSort.md)|
+|2.|Bubble Sort|[🔗 Link : Bubble Sort](https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/BubbleSort.md)|
+|3.|Insertion Sort|[🔗 Link : Insertion Sort](https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/InsertionSort.md)|
+|4.|Merge Sort|[🔗 Link : Merge Sort](https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/MergeSort.md)|
+|5.|Quick Sort|[🔗 Link : Quick Sort](https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/QuickSort.md)|
+|6.|Heap Sort|[🔗 Link : Heap Sort](https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/HeapSort.md)|
+|7.|Shell Sort|[🔗 Link : Shell Sort](https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/ShellSort.md)|
