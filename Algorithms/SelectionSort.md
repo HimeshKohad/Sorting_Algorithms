@@ -1,4 +1,4 @@
-***Selection Sort***
+### ***Selection Sort***
 
 <hr>
 
