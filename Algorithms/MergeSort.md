@@ -81,12 +81,10 @@ class Solution
 public:
     void merge(int arr[], int l, int mid, int r)
     {
-        int i = l;        // starting index of left half of arr
-        int j = mid + 1;  // starting index of right half of arr
-        int f = l;        // index used to transfer elements in temporary array
-        int temp[100000]; // temporary array
-
-        // storing elements in the temporary array in a sorted manner//
+        int i = l;        
+        int j = mid + 1; 
+        int f = l;        
+        int temp[100000]; 
 
         while (i <= mid && j <= r)
         {
@@ -103,8 +101,6 @@ public:
             f++;
         }
 
-        // if elements on the left half are still left //
-
         if (i > mid)
         {
             while (j <= r)
@@ -116,7 +112,6 @@ public:
         }
         else
         {
-            //  if elements on the right half are still left //
             while (i <= mid)
             {
                 temp[f] = arr[i];
@@ -125,7 +120,6 @@ public:
             }
         }
 
-        // transfering all elements from temporary to arr //
         for (int f = l; f <= r; f++)
         {
             arr[f] = temp[f];
@@ -137,9 +131,9 @@ public:
         if (l < r)
         {
             int mid = (l + r) / 2;
-            mergeSort(arr, l, mid);     // left half
-            mergeSort(arr, mid + 1, r); // right half
-            merge(arr, l, mid, r);      // merging sorted halves
+            mergeSort(arr, l, mid);     
+            mergeSort(arr, mid + 1, r); 
+            merge(arr, l, mid, r);      
         }
     }
 };
