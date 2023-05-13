@@ -31,7 +31,7 @@ Contributions are always welcome! If you have a new searching algorithm to add, 
 
 ## License
 
-This repository is licensed under the [GPL-3.0](https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/LICENSE).
+This repository is licensed under the [GPL-3.0 License](https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/LICENSE).
 
 <hr>
 
