@@ -1,11 +1,12 @@
 ### Hi there 👋,
-<p> This repository contains various sorting algorithms and their implementations in C++. </p>
-<p> Please give this repo a ⭐ if these algorithms help you in any way (means a lot). </p>
-<p> Share this repo with your friends </p>
-<p> Thanks for the support 😄 </p>
 
-_________________________________________________________________________________
-_You can access the algorithms and their implementations below:_
+Welcome to my repository containing various sorting algorithms and their implementations in C++!
+
+Please consider giving this repository a ⭐️ if you find these algorithms helpful. It means a lot to me.
+
+---
+
+You can access the algorithms and their implementations below:
 
 | Sr. No. | Name | File |
 |------|------|------|
@@ -16,3 +17,8 @@ _You can access the algorithms and their implementations below:_
 |5.|Quick Sort|[🔗 Link : Quick Sort](https://github.com/HimeshKohad/Sorting_Algos/blob/main/Algorithms/QuickSort.md)|
 |6.|Heap Sort|[🔗 Link : Heap Sort](https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/HeapSort.md)|
 |7.|Shell Sort|[🔗 Link : Shell Sort](https://github.com/HimeshKohad/Sorting_Algorithms/blob/main/Algorithms/ShellSort.md)|
+---
+
+Thanks for checking out my repository! I hope you find these sorting algorithms useful in your projects.
+
+Feel free to share this repository with your friends.
